@@ -16,9 +16,8 @@ Mini CRUD de gestión de empleados usando Razor Pages (.NET Core 3.0+) y Entity F
 
 1. Clona el repositorio
 
-```bash
-git clone https://github.com/LuisMartin87/Empleados.git
-cd Empleados
+- git clone https://github.com/LuisMartin87/Empleados.git
+- cd Empleados
 
 2. Aplica migraciones y crea la base de datos
 
