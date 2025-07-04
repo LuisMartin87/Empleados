@@ -6,8 +6,8 @@ Mini CRUD de gestión de empleados usando Razor Pages (.NET Core 3.0+) y Entity F
 
 ## Requisitos Previos
 
-- [.NET Core SDK 3.0 o superior](https://dotnet.microsoft.com/download)
-- SQLite instalado (opcional, ya que EF Core puede crear la base de datos automáticamente)
+- [.NET Core SDK 3.0](https://dotnet.microsoft.com/download)
+- SQLite instalado
 - Visual Studio 2019/2022 o VS Code para desarrollo
 
 ---
@@ -17,8 +17,8 @@ Mini CRUD de gestión de empleados usando Razor Pages (.NET Core 3.0+) y Entity F
 1. Clona el repositorio
 
 ```bash
-git clone <URL-del-repositorio>
-cd EmpleadosApp
+git clone https://github.com/LuisMartin87/Empleados.git
+cd Empleados
 
 2. Aplica migraciones y crea la base de datos
 
