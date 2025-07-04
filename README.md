@@ -27,4 +27,4 @@ cd Empleados
 3. Ejecuta la aplicación
 - dotnet run
 
- 4. Abre tu navegador y navega a `http://localhost:5000/Empleados` o `http://localhost:5001/Empleados`
+4. Abre tu navegador y navega a `http://localhost:5000/Empleados` o `http://localhost:5001/Empleados`
