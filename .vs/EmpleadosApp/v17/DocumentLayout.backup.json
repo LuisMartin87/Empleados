@@ -1,0 +1,508 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lbmd8\\source\\repos\\EmpleadosApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20E9F1E1-16A4-4682-A416-7951669B204C}|EmpleadosApp.csproj|c:\\users\\lbmd8\\source\\repos\\empleadosapp\\pages\\empleados\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20E9F1E1-16A4-4682-A416-7951669B204C}|EmpleadosApp.csproj|solutionrelative:pages\\empleados\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E9F1E1-16A4-4682-A416-7951669B204C}|EmpleadosApp.csproj|c:\\users\\lbmd8\\source\\repos\\empleadosapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{20E9F1E1-16A4-4682-A416-7951669B204C}|EmpleadosApp.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E9F1E1-16A4-4682-A416-7951669B204C}|EmpleadosApp.csproj|c:\\users\\lbmd8\\source\\repos\\empleadosapp\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E9F1E1-16A4-4682-A416-7951669B204C}|EmpleadosApp.csproj|solutionrelative:models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E9F1E1-16A4-4682-A416-7951669B204C}|EmpleadosApp.csproj|c:\\users\\lbmd8\\source\\repos\\empleadosapp\\pages\\empleados\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E9F1E1-16A4-4682-A416-7951669B204C}|EmpleadosApp.csproj|solutionrelative:pages\\empleados\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E9F1E1-16A4-4682-A416-7951669B204C}|EmpleadosApp.csproj|c:\\users\\lbmd8\\source\\repos\\empleadosapp\\pages\\empleados\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20E9F1E1-16A4-4682-A416-7951669B204C}|EmpleadosApp.csproj|solutionrelative:pages\\empleados\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E9F1E1-16A4-4682-A416-7951669B204C}|EmpleadosApp.csproj|c:\\users\\lbmd8\\source\\repos\\empleadosapp\\pages\\empleados\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20E9F1E1-16A4-4682-A416-7951669B204C}|EmpleadosApp.csproj|solutionrelative:pages\\empleados\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E9F1E1-16A4-4682-A416-7951669B204C}|EmpleadosApp.csproj|c:\\users\\lbmd8\\source\\repos\\empleadosapp\\pages\\empleados\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20E9F1E1-16A4-4682-A416-7951669B204C}|EmpleadosApp.csproj|solutionrelative:pages\\empleados\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E9F1E1-16A4-4682-A416-7951669B204C}|EmpleadosApp.csproj|c:\\users\\lbmd8\\source\\repos\\empleadosapp\\pages\\empleados\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20E9F1E1-16A4-4682-A416-7951669B204C}|EmpleadosApp.csproj|solutionrelative:pages\\empleados\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E9F1E1-16A4-4682-A416-7951669B204C}|EmpleadosApp.csproj|c:\\users\\lbmd8\\source\\repos\\empleadosapp\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20E9F1E1-16A4-4682-A416-7951669B204C}|EmpleadosApp.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E9F1E1-16A4-4682-A416-7951669B204C}|EmpleadosApp.csproj|c:\\users\\lbmd8\\source\\repos\\empleadosapp\\views\\shared\\components\\resumenempleados\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20E9F1E1-16A4-4682-A416-7951669B204C}|EmpleadosApp.csproj|solutionrelative:views\\shared\\components\\resumenempleados\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E9F1E1-16A4-4682-A416-7951669B204C}|EmpleadosApp.csproj|c:\\users\\lbmd8\\source\\repos\\empleadosapp\\views\\shared\\components\\resumenempleados\\default.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E9F1E1-16A4-4682-A416-7951669B204C}|EmpleadosApp.csproj|solutionrelative:views\\shared\\components\\resumenempleados\\default.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E9F1E1-16A4-4682-A416-7951669B204C}|EmpleadosApp.csproj|c:\\users\\lbmd8\\source\\repos\\empleadosapp\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E9F1E1-16A4-4682-A416-7951669B204C}|EmpleadosApp.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E9F1E1-16A4-4682-A416-7951669B204C}|EmpleadosApp.csproj|c:\\users\\lbmd8\\source\\repos\\empleadosapp\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20E9F1E1-16A4-4682-A416-7951669B204C}|EmpleadosApp.csproj|solutionrelative:pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E9F1E1-16A4-4682-A416-7951669B204C}|EmpleadosApp.csproj|c:\\users\\lbmd8\\source\\repos\\empleadosapp\\viewcomponents\\resumenempleadosviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E9F1E1-16A4-4682-A416-7951669B204C}|EmpleadosApp.csproj|solutionrelative:viewcomponents\\resumenempleadosviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E9F1E1-16A4-4682-A416-7951669B204C}|EmpleadosApp.csproj|c:\\users\\lbmd8\\source\\repos\\empleadosapp\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{20E9F1E1-16A4-4682-A416-7951669B204C}|EmpleadosApp.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E9F1E1-16A4-4682-A416-7951669B204C}|EmpleadosApp.csproj|c:\\users\\lbmd8\\source\\repos\\empleadosapp\\pages\\empleados\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E9F1E1-16A4-4682-A416-7951669B204C}|EmpleadosApp.csproj|solutionrelative:pages\\empleados\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E9F1E1-16A4-4682-A416-7951669B204C}|EmpleadosApp.csproj|c:\\users\\lbmd8\\source\\repos\\empleadosapp\\pages\\empleados\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E9F1E1-16A4-4682-A416-7951669B204C}|EmpleadosApp.csproj|solutionrelative:pages\\empleados\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E9F1E1-16A4-4682-A416-7951669B204C}|EmpleadosApp.csproj|c:\\users\\lbmd8\\source\\repos\\empleadosapp\\pages\\empleados\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E9F1E1-16A4-4682-A416-7951669B204C}|EmpleadosApp.csproj|solutionrelative:pages\\empleados\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E9F1E1-16A4-4682-A416-7951669B204C}|EmpleadosApp.csproj|c:\\users\\lbmd8\\source\\repos\\empleadosapp\\pages\\empleados\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E9F1E1-16A4-4682-A416-7951669B204C}|EmpleadosApp.csproj|solutionrelative:pages\\empleados\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E9F1E1-16A4-4682-A416-7951669B204C}|EmpleadosApp.csproj|c:\\users\\lbmd8\\source\\repos\\empleadosapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E9F1E1-16A4-4682-A416-7951669B204C}|EmpleadosApp.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E9F1E1-16A4-4682-A416-7951669B204C}|EmpleadosApp.csproj|c:\\users\\lbmd8\\source\\repos\\empleadosapp\\repositories\\interfaces\\iempleadorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E9F1E1-16A4-4682-A416-7951669B204C}|EmpleadosApp.csproj|solutionrelative:repositories\\interfaces\\iempleadorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E9F1E1-16A4-4682-A416-7951669B204C}|EmpleadosApp.csproj|c:\\users\\lbmd8\\source\\repos\\empleadosapp\\repositories\\implementations\\empleadorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E9F1E1-16A4-4682-A416-7951669B204C}|EmpleadosApp.csproj|solutionrelative:repositories\\implementations\\empleadorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E9F1E1-16A4-4682-A416-7951669B204C}|EmpleadosApp.csproj|c:\\users\\lbmd8\\source\\repos\\empleadosapp\\services\\implementations\\empleadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E9F1E1-16A4-4682-A416-7951669B204C}|EmpleadosApp.csproj|solutionrelative:services\\implementations\\empleadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E9F1E1-16A4-4682-A416-7951669B204C}|EmpleadosApp.csproj|c:\\users\\lbmd8\\source\\repos\\empleadosapp\\services\\implementations\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E9F1E1-16A4-4682-A416-7951669B204C}|EmpleadosApp.csproj|solutionrelative:services\\implementations\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E9F1E1-16A4-4682-A416-7951669B204C}|EmpleadosApp.csproj|c:\\users\\lbmd8\\source\\repos\\empleadosapp\\services\\interfaces\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E9F1E1-16A4-4682-A416-7951669B204C}|EmpleadosApp.csproj|solutionrelative:services\\interfaces\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E9F1E1-16A4-4682-A416-7951669B204C}|EmpleadosApp.csproj|c:\\users\\lbmd8\\source\\repos\\empleadosapp\\services\\interfaces\\iempleadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E9F1E1-16A4-4682-A416-7951669B204C}|EmpleadosApp.csproj|solutionrelative:services\\interfaces\\iempleadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E9F1E1-16A4-4682-A416-7951669B204C}|EmpleadosApp.csproj|c:\\users\\lbmd8\\source\\repos\\empleadosapp\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E9F1E1-16A4-4682-A416-7951669B204C}|EmpleadosApp.csproj|solutionrelative:repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E9F1E1-16A4-4682-A416-7951669B204C}|EmpleadosApp.csproj|c:\\users\\lbmd8\\source\\repos\\empleadosapp\\repositories\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E9F1E1-16A4-4682-A416-7951669B204C}|EmpleadosApp.csproj|solutionrelative:repositories\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "bootstrap.min.js",
+              "DocumentMoniker": "C:\\Users\\lbmd8\\source\\repos\\EmpleadosApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+              "ToolTip": "C:\\Users\\lbmd8\\source\\repos\\EmpleadosApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-07-04T15:02:48.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\lbmd8\\source\\repos\\EmpleadosApp\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\lbmd8\\source\\repos\\EmpleadosApp\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-04T14:03:07.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Default.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\lbmd8\\source\\repos\\EmpleadosApp\\Views\\Shared\\Components\\ResumenEmpleados\\Default.cshtml.cs",
+              "RelativeDocumentMoniker": "Views\\Shared\\Components\\ResumenEmpleados\\Default.cshtml.cs",
+              "ToolTip": "C:\\Users\\lbmd8\\source\\repos\\EmpleadosApp\\Views\\Shared\\Components\\ResumenEmpleados\\Default.cshtml.cs",
+              "RelativeToolTip": "Views\\Shared\\Components\\ResumenEmpleados\\Default.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T13:52:58.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\lbmd8\\source\\repos\\EmpleadosApp\\Views\\Shared\\Components\\ResumenEmpleados\\Default.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Components\\ResumenEmpleados\\Default.cshtml",
+              "ToolTip": "C:\\Users\\lbmd8\\source\\repos\\EmpleadosApp\\Views\\Shared\\Components\\ResumenEmpleados\\Default.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Components\\ResumenEmpleados\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-04T13:16:20.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lbmd8\\source\\repos\\EmpleadosApp\\Pages\\Empleados\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Empleados\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lbmd8\\source\\repos\\EmpleadosApp\\Pages\\Empleados\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Empleados\\Index.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwB0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-04T13:13:00.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\lbmd8\\source\\repos\\EmpleadosApp\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "C:\\Users\\lbmd8\\source\\repos\\EmpleadosApp\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAA1wDsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T12:45:34.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\lbmd8\\source\\repos\\EmpleadosApp\\Pages\\Empleados\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Empleados\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\lbmd8\\source\\repos\\EmpleadosApp\\Pages\\Empleados\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\Empleados\\Edit.cshtml",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwDIAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-04T13:12:59.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\lbmd8\\source\\repos\\EmpleadosApp\\Pages\\Empleados\\Details.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Empleados\\Details.cshtml",
+              "ToolTip": "C:\\Users\\lbmd8\\source\\repos\\EmpleadosApp\\Pages\\Empleados\\Details.cshtml",
+              "RelativeToolTip": "Pages\\Empleados\\Details.cshtml",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwDsAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-04T13:12:59.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\lbmd8\\source\\repos\\EmpleadosApp\\Pages\\Empleados\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Empleados\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\lbmd8\\source\\repos\\EmpleadosApp\\Pages\\Empleados\\Delete.cshtml",
+              "RelativeToolTip": "Pages\\Empleados\\Delete.cshtml",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwD4AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-04T13:13:00.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\lbmd8\\source\\repos\\EmpleadosApp\\Pages\\Empleados\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Empleados\\Create.cshtml",
+              "ToolTip": "C:\\Users\\lbmd8\\source\\repos\\EmpleadosApp\\Pages\\Empleados\\Create.cshtml",
+              "RelativeToolTip": "Pages\\Empleados\\Create.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAgwDcAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-04T13:12:59.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\lbmd8\\source\\repos\\EmpleadosApp\\Pages\\Empleados\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Empleados\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\lbmd8\\source\\repos\\EmpleadosApp\\Pages\\Empleados\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Empleados\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T13:13:00.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\lbmd8\\source\\repos\\EmpleadosApp\\Models\\Empleado.cs",
+              "RelativeDocumentMoniker": "Models\\Empleado.cs",
+              "ToolTip": "C:\\Users\\lbmd8\\source\\repos\\EmpleadosApp\\Models\\Empleado.cs",
+              "RelativeToolTip": "Models\\Empleado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T12:55:26.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\lbmd8\\source\\repos\\EmpleadosApp\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\lbmd8\\source\\repos\\EmpleadosApp\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-04T14:12:57.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ResumenEmpleadosViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\lbmd8\\source\\repos\\EmpleadosApp\\ViewComponents\\ResumenEmpleadosViewComponent.cs",
+              "RelativeDocumentMoniker": "ViewComponents\\ResumenEmpleadosViewComponent.cs",
+              "ToolTip": "C:\\Users\\lbmd8\\source\\repos\\EmpleadosApp\\ViewComponents\\ResumenEmpleadosViewComponent.cs",
+              "RelativeToolTip": "ViewComponents\\ResumenEmpleadosViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T13:14:50.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\lbmd8\\source\\repos\\EmpleadosApp\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\lbmd8\\source\\repos\\EmpleadosApp\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-07-04T13:22:26.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\lbmd8\\source\\repos\\EmpleadosApp\\Pages\\Empleados\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Empleados\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\lbmd8\\source\\repos\\EmpleadosApp\\Pages\\Empleados\\Delete.cshtml.cs",
+              "RelativeToolTip": "Pages\\Empleados\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T13:13:00.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\lbmd8\\source\\repos\\EmpleadosApp\\Pages\\Empleados\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Empleados\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\lbmd8\\source\\repos\\EmpleadosApp\\Pages\\Empleados\\Details.cshtml.cs",
+              "RelativeToolTip": "Pages\\Empleados\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T13:12:59.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\lbmd8\\source\\repos\\EmpleadosApp\\Pages\\Empleados\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Empleados\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\lbmd8\\source\\repos\\EmpleadosApp\\Pages\\Empleados\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\Empleados\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T13:12:59.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\lbmd8\\source\\repos\\EmpleadosApp\\Pages\\Empleados\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Empleados\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\lbmd8\\source\\repos\\EmpleadosApp\\Pages\\Empleados\\Create.cshtml.cs",
+              "RelativeToolTip": "Pages\\Empleados\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T13:12:59.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EmpleadoService.cs",
+              "DocumentMoniker": "C:\\Users\\lbmd8\\source\\repos\\EmpleadosApp\\Services\\Implementations\\EmpleadoService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\EmpleadoService.cs",
+              "ToolTip": "C:\\Users\\lbmd8\\source\\repos\\EmpleadosApp\\Services\\Implementations\\EmpleadoService.cs",
+              "RelativeToolTip": "Services\\Implementations\\EmpleadoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T13:04:47.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IEmpleadoService.cs",
+              "DocumentMoniker": "C:\\Users\\lbmd8\\source\\repos\\EmpleadosApp\\Services\\Interfaces\\IEmpleadoService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IEmpleadoService.cs",
+              "ToolTip": "C:\\Users\\lbmd8\\source\\repos\\EmpleadosApp\\Services\\Interfaces\\IEmpleadoService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IEmpleadoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T13:01:17.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EmpleadoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lbmd8\\source\\repos\\EmpleadosApp\\Repositories\\Implementations\\EmpleadoRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Implementations\\EmpleadoRepository.cs",
+              "ToolTip": "C:\\Users\\lbmd8\\source\\repos\\EmpleadosApp\\Repositories\\Implementations\\EmpleadoRepository.cs",
+              "RelativeToolTip": "Repositories\\Implementations\\EmpleadoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T13:00:34.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IEmpleadoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lbmd8\\source\\repos\\EmpleadosApp\\Repositories\\Interfaces\\IEmpleadoRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IEmpleadoRepository.cs",
+              "ToolTip": "C:\\Users\\lbmd8\\source\\repos\\EmpleadosApp\\Repositories\\Interfaces\\IEmpleadoRepository.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\IEmpleadoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T13:00:24.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\lbmd8\\source\\repos\\EmpleadosApp\\Services\\Implementations\\Service.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\Service.cs",
+              "ToolTip": "C:\\Users\\lbmd8\\source\\repos\\EmpleadosApp\\Services\\Implementations\\Service.cs",
+              "RelativeToolTip": "Services\\Implementations\\Service.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwAMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T12:57:22.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IService.cs",
+              "DocumentMoniker": "C:\\Users\\lbmd8\\source\\repos\\EmpleadosApp\\Services\\Interfaces\\IService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IService.cs",
+              "ToolTip": "C:\\Users\\lbmd8\\source\\repos\\EmpleadosApp\\Services\\Interfaces\\IService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T12:57:11.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lbmd8\\source\\repos\\EmpleadosApp\\Repositories\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\lbmd8\\source\\repos\\EmpleadosApp\\Repositories\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T12:55:43.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\lbmd8\\source\\repos\\EmpleadosApp\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\lbmd8\\source\\repos\\EmpleadosApp\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T12:43:53.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\lbmd8\\source\\repos\\EmpleadosApp\\Repositories\\Implementations\\Repository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Implementations\\Repository.cs",
+              "ToolTip": "C:\\Users\\lbmd8\\source\\repos\\EmpleadosApp\\Repositories\\Implementations\\Repository.cs",
+              "RelativeToolTip": "Repositories\\Implementations\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T12:54:46.468Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

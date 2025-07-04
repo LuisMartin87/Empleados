@@ -1,0 +1,76 @@
+﻿@page
+@model EmpleadosApp.Pages.Empleados.EditModel
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Edit</title>
+</head>
+<body>
+
+    <div class="container mt-5">
+        <div class="row justify-content-center">
+            <div class="col-md-6">
+                <div class="card shadow-lg">
+                    <div class="card-header bg-warning text-white d-flex align-items-center">
+                        <h5 class="mb-0 flex-grow-1"><i class="fas fa-edit me-2"></i> Editar Empleado</h5>
+                    </div>
+                    <div class="card-body">
+                        <form method="post">
+                            <div asp-validation-summary="ModelOnly" class="alert alert-danger" role="alert">
+                                <i class="fas fa-exclamation-triangle me-2"></i> Por favor, corrija los siguientes errores:
+                            </div>
+
+                            <input type="hidden" asp-for="Empleado.Id" />
+
+                            <div class="mb-3">
+                                <label asp-for="Empleado.Nombre" class="form-label"><i class="fas fa-user me-2"></i> Nombre</label>
+                                <input asp-for="Empleado.Nombre" class="form-control" placeholder="Ingrese el nombre del empleado" />
+                                <span asp-validation-for="Empleado.Nombre" class="text-danger"></span>
+                            </div>
+
+                            <div class="mb-3">
+                                <label asp-for="Empleado.Correo" class="form-label"><i class="fas fa-envelope me-2"></i> Correo Electrónico</label>
+                                <input asp-for="Empleado.Correo" class="form-control" placeholder="ejemplo@dominio.com" />
+                                <span asp-validation-for="Empleado.Correo" class="text-danger"></span>
+                            </div>
+
+                            <div class="mb-3">
+                                <label asp-for="Empleado.Area" class="form-label"><i class="fas fa-briefcase me-2"></i> Área</label>
+                                <input asp-for="Empleado.Area" class="form-control" placeholder="Ingrese el área de trabajo" />
+                                <span asp-validation-for="Empleado.Area" class="text-danger"></span>
+                            </div>
+
+                            <div class="mb-3">
+                                <label asp-for="Empleado.FechaIngreso" class="form-label"><i class="fas fa-calendar-alt me-2"></i> Fecha de Ingreso</label>
+                                <input asp-for="Empleado.FechaIngreso" type="date" class="form-control" /> <span asp-validation-for="Empleado.FechaIngreso" class="text-danger"></span>
+                            </div>
+
+                            <div class="form-check mb-4 mt-3">
+                                <input class="form-check-input" asp-for="Empleado.Activo" />
+                                <label class="form-check-label" asp-for="Empleado.Activo">
+                                    <i class="fas fa-toggle-on me-2"></i> @Html.DisplayNameFor(model => model.Empleado.Activo)
+                                </label>
+                            </div>
+
+                            <div class="d-flex justify-content-end mt-4 gap-1">
+                                <a asp-page="./Index" class="btn btn-secondary btn-sm mr-2">
+                                    <i class="fas fa-arrow-alt-circle-left me-2"></i> Volver al listado
+                                </a>
+                                <button type="submit" class="btn btn-primary btn-sm">
+                                    <i class="fas fa-save me-2"></i> Guardar
+                                </button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
+</body>
+</html>

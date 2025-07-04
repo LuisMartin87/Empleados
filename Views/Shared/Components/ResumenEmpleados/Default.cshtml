@@ -1,0 +1,15 @@
+﻿<div class="container mt-4 mb-4">
+    <div class="alert alert-info shadow-sm rounded-3" role="alert">
+        <h5 class="alert-heading mb-3"><i class="fas fa-chart-bar me-2"></i> Estadísticas Rápidas de Empleados</h5>
+        <div class="row">
+            <div class="col-md-6 mb-2 mb-md-0">
+                <strong><i class="fas fa-user-check me-2"></i> Empleados Activos:</strong>
+                <span class="badge bg-success fs-5">@ViewData["Activos"]</span>
+            </div>
+            <div class="col-md-6">
+                <strong><i class="fas fa-user-slash me-2"></i> Empleados Inactivos:</strong>
+                <span class="badge bg-secondary fs-5">@ViewData["Inactivos"]</span>
+            </div>
+        </div>
+    </div>
+</div>

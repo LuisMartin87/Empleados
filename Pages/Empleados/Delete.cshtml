@@ -1,0 +1,77 @@
+﻿@page
+@model EmpleadosApp.Pages.Empleados.DeleteModel
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Delete</title>
+</head>
+<body>
+
+    <div class="container mt-5">
+        <div class="row justify-content-center">
+            <div class="col-md-7">
+                <div class="card shadow-lg border-danger">
+                    <div class="card-header bg-danger text-white d-flex align-items-center">
+                        <h4 class="mb-0 flex-grow-1"><i class="fas fa-exclamation-triangle me-2"></i> ¿Estás seguro de que quieres eliminar esto?</h4>
+                    </div>
+                    <div class="card-body">
+                        <h5 class="card-title mb-3"><i class="fas fa-user-times me-2"></i> Detalles del Empleado a Eliminar</h5>
+                        <hr />
+                        <dl class="row mb-4">
+                            <dt class="col-sm-4 text-muted">
+                                <i class="fas fa-id-card me-2"></i> @Html.DisplayNameFor(model => model.Empleado.Nombre)
+                            </dt>
+                            <dd class="col-sm-8">
+                                @Html.DisplayFor(model => model.Empleado.Nombre)
+                            </dd>
+
+                            <dt class="col-sm-4 text-muted">
+                                <i class="fas fa-at me-2"></i> @Html.DisplayNameFor(model => model.Empleado.Correo)
+                            </dt>
+                            <dd class="col-sm-8">
+                                @Html.DisplayFor(model => model.Empleado.Correo)
+                            </dd>
+
+                            <dt class="col-sm-4 text-muted">
+                                <i class="fas fa-briefcase me-2"></i> @Html.DisplayNameFor(model => model.Empleado.Area)
+                            </dt>
+                            <dd class="col-sm-8">
+                                @Html.DisplayFor(model => model.Empleado.Area)
+                            </dd>
+
+                            <dt class="col-sm-4 text-muted">
+                                <i class="fas fa-calendar-alt me-2"></i> @Html.DisplayNameFor(model => model.Empleado.FechaIngreso)
+                            </dt>
+                            <dd class="col-sm-8">
+                                @Html.DisplayFor(model => model.Empleado.FechaIngreso)
+                            </dd>
+
+                            <dt class="col-sm-4 text-muted">
+                                <i class="fas fa-toggle-on me-2"></i> @Html.DisplayNameFor(model => model.Empleado.Activo)
+                            </dt>
+                            <dd class="col-sm-8">
+                                @Html.DisplayFor(model => model.Empleado.Activo)
+                            </dd>
+                        </dl>
+
+                        <form method="post" class="d-flex justify-content-end align-items-center mt-4">
+                            <input type="hidden" asp-for="Empleado.Id" />
+
+                            <a asp-page="./Index" class="btn btn-secondary btn-sm mr-2">
+                                <i class="fas fa-arrow-alt-circle-left me-2"></i> Volver al listado
+                            </a>
+                            <button type="submit" class="btn btn-sm btn-danger">
+                                <i class="fas fa-trash-alt me-2"></i> Eliminar
+                            </button>
+                            
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

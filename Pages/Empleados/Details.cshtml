@@ -1,0 +1,73 @@
+﻿@page
+@model EmpleadosApp.Pages.Empleados.DetailsModel
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Details</title>
+</head>
+<body>
+
+    <div class="container mt-5">
+        <div class="row justify-content-center">
+            <div class="col-md-7">
+                <div class="card shadow-lg">
+                    <div class="card-header bg-info text-white d-flex align-items-center">
+                        <h4 class="mb-0 flex-grow-1"><i class="fas fa-info-circle me-2"></i> Detalles del Empleado</h4>
+                    </div>
+                    <div class="card-body">
+                        <h5 class="card-title mb-3"><i class="fas fa-user-circle me-2"></i> Información Completa</h5>
+                        <hr />
+                        <dl class="row">
+                            <dt class="col-sm-4 text-muted">
+                                <i class="fas fa-id-card me-2"></i> @Html.DisplayNameFor(model => model.Empleado.Nombre)
+                            </dt>
+                            <dd class="col-sm-8">
+                                @Html.DisplayFor(model => model.Empleado.Nombre)
+                            </dd>
+
+                            <dt class="col-sm-4 text-muted">
+                                <i class="fas fa-at me-2"></i> @Html.DisplayNameFor(model => model.Empleado.Correo)
+                            </dt>
+                            <dd class="col-sm-8">
+                                @Html.DisplayFor(model => model.Empleado.Correo)
+                            </dd>
+
+                            <dt class="col-sm-4 text-muted">
+                                <i class="fas fa-briefcase me-2"></i> @Html.DisplayNameFor(model => model.Empleado.Area)
+                            </dt>
+                            <dd class="col-sm-8">
+                                @Html.DisplayFor(model => model.Empleado.Area)
+                            </dd>
+
+                            <dt class="col-sm-4 text-muted">
+                                <i class="fas fa-calendar-alt me-2"></i> @Html.DisplayNameFor(model => model.Empleado.FechaIngreso)
+                            </dt>
+                            <dd class="col-sm-8">
+                                @Html.DisplayFor(model => model.Empleado.FechaIngreso)
+                            </dd>
+
+                            <dt class="col-sm-4 text-muted">
+                                <i class="fas fa-toggle-on me-2"></i> @Html.DisplayNameFor(model => model.Empleado.Activo)
+                            </dt>
+                            <dd class="col-sm-8">
+                                @Html.DisplayFor(model => model.Empleado.Activo)
+                            </dd>
+                        </dl>
+                    </div>
+                    <div class="card-footer d-flex justify-content-end align-items-center gap-1">
+                        <a asp-page="./Index" class="btn btn-secondary btn-sm mr-2">
+                            <i class="fas fa-arrow-alt-circle-left me-2"></i> Volver al listado
+                        </a>
+                        <a asp-page="./Edit" asp-route-id="@Model.Empleado.Id" class="btn btn-warning btn-sm">
+                            <i class="fas fa-pencil-alt me-2"></i> Editar
+                        </a>                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
